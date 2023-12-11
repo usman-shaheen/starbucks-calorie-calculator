@@ -28,4 +28,4 @@ This is a simple web-based calculator for estimating the calories in Starbucks d
 
 ## Additional Resources
 
-For more information on Starbucks calories, you can also visit [StarbucksCalorieCalculator.com](https://starbuckscaloriecalculator.com).
+For more information on Starbucks calories, you can also visit [Starbucks Calorie Calculator](https://starbuckscaloriecalculator.com).
